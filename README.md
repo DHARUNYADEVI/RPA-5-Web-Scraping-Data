@@ -23,8 +23,9 @@ The extracted data will be stored in a DataTable variable (e.g., ExtractDataTabl
 
 ### Step 4: 
 Write Data to CSV After the Data Scraping activity, drag a Write CSV activity.
-
-Properties: Input: ExtractDataTable FilePath: "BooksData.csv" (you can choose your own name) Include Headers: ✔️ (checked) Step 5: Run the Workflow
+Properties: Input: ExtractDataTable FilePath: "BooksData.csv" (you can choose your own name) Include Headers: checked
+### Step 5:
+Run the Workflow
 Save the workflow. Click Run.
 
 ## PROGRAM:
